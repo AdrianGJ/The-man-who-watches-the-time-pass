@@ -1,0 +1,123 @@
+--PHONE1
+*Click*
+<color=#868DE7>Hi dad! How you doing?
+Busy as always. How about you?
+<color=#868DE7>Fine, thanks
+...
+... ...
+<color=#868DE7>Did you think about my offer?
+Yes, and the answer is still no.
+<color=#868DE7>... why?
+<color=#868DE7>I can't understand you, dad.
+<color=#868DE7>Why are you so stubborn?
+I've been taking care of this old clock all my live and I'm not going to abandon it now.
+<color=#868DE7>You are living in a ghost village, nobody cares if that old clock is still working.
+<color=#868DE7>Come live with me, dad. You will be better here, in the town. We can ask a medic to check your leg and you will be here on your grandson's birthday.
+<color=#868DE7>Isn't that a better plan than taking care of an old rusty clock that nobody is going to watch?
+I'm sorry, son.
+This clock is my life and I'm not going to abandon it.
+I will keep it alive as long as I live.
+<color=#868DE7>Dad...
+I made a decision.
+<color=#868DE7>OK, dad. As you want.
+...
+I love you son.
+<color=#868DE7>Me too, dad. I'll call you tomorrow.
+Bye.
+<color=#868DE7>Goodbye.
+*Click*
+...
+It's time to take care of this old boy.
+--CLOCK1
+It's been 60 years now and this view still makes me feel alive.
+It's in its last legs and is still so beautiful.
+...
+I must go to the machinary room. One day without cleaning and greasing it can be fatal.
+--GEARS1
+Don't worry, man. I will take care of your guts as if they were my own.
+Even better, actually.
+...
+... ...
+Seems perfect.
+You will survive one more day.
+...
+It's so cold here, I must fuel the heater if I don't want to freeze this night.
+--HEATER1
+...
+... ...
+Much better.
+As my father used to say.
+Warm your house to warm your hearth.
+...
+He was a great man.
+This tower is his legacy.
+And It will die with me.
+I'm probably the last person in the world who cares about it.
+And I think it's fine.
+We will die together.
+...
+It's late, I must get some rest. This leg is killing me slowly.
+--PHONE2
+*Click*
+<color=#868DE7>Hi dad. How you doing?
+My leg still hurts, otherwise I'm fine.
+<color=#868DE7>Dad, you must go see a doctor.
+I'm fine, honest.
+<color=#868DE7>You are isolated there, got me worried dad...
+I can take care of myself, son.
+<color=#868DE7>As you want...
+How is the child?
+<color=#868DE7>He is fine, can't wait to see you. Yesterday, he drew you peeping out of your clock tower.
+Hahaha, he will be a famous painter some day.
+<color=#868DE7>Yeah, probably he will...
+...
+Can I speak to him?
+<color=#868DE7>Sorry, he's at the school now. You can do it tomorrow, it's Saturday.
+Oh, OK.
+<color=#868DE7>Bye dad, take care of this leg.
+I will. Bye, son. Love you.
+<color=#868DE7>Bye.
+*Click*
+...
+OK, lets go to work. That machinary is not going to maintain on its own.
+--GEARS2
+...
+... ...
+Enough for today.
+I love this sound. The clock's hearth.
+So beautiful, so perfectly synchronized.
+...
+I must go fuel the heater. The winter is just around the corner. From now on, everyday will be colder.
+--HEATER2
+...
+... ...
+Done.
+This place is now depressing. It bring me memories.
+It's the warmest place in the tower. Still remember sitting here with my wife, drinking beer and having fun.
+Good old times.
+...
+I must go bed, I'm really tired.
+--WAKEUP3
+My leg hurts so much.
+Ugh
+--PHONE3
+*Click*
+Hi son.
+<color=#FF831C>Good morning! This is a lucky day for you! We are calling random numbers and gifting incredible prizes!
+<color=#FF831C>You only have to answer a survey and wait your amazing gift.
+Sorry, not interested.
+*Click*
+...
+Maybe he is busy today, I must go work.
+It's really cold here, this damned heater must not be working.
+I should check it first today.
+--HEATER3
+Hmm
+Seems to be working just fine.
+It's so strange. I'm so cold.
+Anyways, I must go.
+I have to maintain the clock machinary.
+--HALLWAY3
+Ugh
+--CLOCK3
+Ugh
